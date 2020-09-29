@@ -1,6 +1,6 @@
-domain: example.com
+domain: dzxget.herokuapp.com
 cf_email: ""
 cf_key: ""
 source-files:
   - ./source.yaml
-  - https://example.com/source.yaml
+  - https://raw.githubusercontent.com/duzixian/proxypool/master/config/source.yaml
